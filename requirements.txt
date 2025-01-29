@@ -3,3 +3,4 @@ gunicorn
 psycopg2
 gspread
 oauth2client
+psycopg2-binary
